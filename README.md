@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=wodeowne)](https://github.com/anuraghazra/github-readme-stats)
+[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=wodewone)](https://github.com/anuraghazra/github-readme-stats)
